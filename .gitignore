@@ -1,5 +1,5 @@
 # ignore markdown files/plans in references
-.references/
+references/
 
 # Python caches and environments
 __pycache__/
