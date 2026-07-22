@@ -1,0 +1,8 @@
+# ignore markdown files/plans in references
+.references/
+
+# Python caches and environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
